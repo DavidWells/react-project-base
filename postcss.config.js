@@ -31,15 +31,3 @@ module.exports = [
   /* transform W3C CSS color function to more compatible CSS. */
   require('postcss-color-function'),
 ]
-
-/*eslint-disable no-unused-vars */
-function mergeOptions (obj1, obj2) {
-  var obj3 = {}
-  for (var attrname in obj1) {
-    obj3[attrname] = obj1[attrname]
-  }
-  for (var attrname in obj2) {
-    obj3[attrname] = obj2[attrname]
-  }
-  return obj3
-}
