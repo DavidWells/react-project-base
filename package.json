@@ -70,7 +70,7 @@
     "postcss-nested": "^1.0.0",
     "postcss-simple-vars": "^1.0.1",
     "postcss-wcag-contrast": "^1.0.0",
-    "react-addons-test-utils": "15.0.1",
+    "react-addons-test-utils": "15.4.1",
     "rimraf": "2.5.2",
     "sinon": "1.17.3",
     "style-loader": "0.13.1",
