@@ -69,7 +69,7 @@
     "postcss-mixins": "^4.0.1",
     "postcss-nested": "^1.0.0",
     "postcss-simple-vars": "^1.0.1",
-    "postcss-wcag-contrast": "^1.0.0",
+    "postcss-wcag-contrast": "^1.1.0",
     "react-addons-test-utils": "15.0.1",
     "rimraf": "2.5.2",
     "sinon": "1.17.3",
