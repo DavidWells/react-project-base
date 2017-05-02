@@ -72,7 +72,7 @@
     "postcss-wcag-contrast": "^1.0.0",
     "react-addons-test-utils": "15.0.1",
     "rimraf": "2.5.2",
-    "sinon": "1.17.3",
+    "sinon": "2.2.0",
     "style-loader": "0.13.1",
     "webpack": "1.13.0",
     "webpack-dev-middleware": "1.6.1",
