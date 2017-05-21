@@ -42,7 +42,7 @@
     "babel-preset-stage-0": "^6.5.0",
     "babel-polyfill": "6.7.4",
     "babel-register": "6.7.2",
-    "browser-sync": "2.12.5",
+    "browser-sync": "2.18.12",
     "cheerio": "0.20.0",
     "colors": "1.1.2",
     "connect-history-api-fallback": "1.2.0",
